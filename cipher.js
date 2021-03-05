@@ -24,7 +24,7 @@ function ceaserCipher() {
 
 
 
-// Vigenère 
+// Vigenère
 function vigenereCipher() {
   const pt = document.getElementById("vPT").value.toLowerCase();
   const key = document.getElementById("vKey").value.toLowerCase();
